@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: statistics-restful-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: BinGeb
+Implementation-Vendor-Id: com.n26.CodeChallenge
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/statistics-r
+ estful-service/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
